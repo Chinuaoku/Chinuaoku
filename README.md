@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+If you are here then you are interested in knowing about me and i'll tell you!
+
+I have a background in Veterinary Medicine (Doctor of veterinary medicine) from University of Nigeria, Nsukka. I lead a startup as the Chief Excecutive Office and double as a cybersecurity analyst, offering much needed security to our users and infrastructure. 
+
+You can know more about me by taking a quick look at my linkedin profile https://www.linkedin.com/in/chinuaoku-nwasogwa-dvm-cc-89872583/ 
+
 <!--
 **Chinuaoku/Chinuaoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
