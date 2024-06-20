@@ -20,11 +20,26 @@ You can know more about me by taking a quick look at my [LinkedIn Profile](https
 10. Business analysis and development
 11. Leadership and mentoring
 12. Critical thinking
-13. Cybersecurity exam item development
-<!--
-| Attempt | #1 | #2 |
-| :------ |:---| :--|
-|son      |a    |b  |
+13. Cybersecurity exam item development.
+
+## Tools
+
+| Category | list | 
+| :------ |:---|
+|Training| CISCO Networking, HACKTHEBOX, TryHackMe, Letsdefend, Udacity, Google|
+|Traffic and packet analysis     |Wireshark, TCPDump    |
+|Penetration testing/hacking| Burpsuite, Metasploit, Zed Attack Proxy, SQLmap|
+|Network scanning/analysis | NMAP, Zenmap, Netcat|
+|Vulnerability scanning| NIKTO, OPENVAS|
+|Data Modification| CYBER CHEF|
+|Social Engineering/Phishing| SET, shellphish, Gophish |
+|SIEM | Splunk, Google Chronicle, EDR, Log management, IBM Qradar, FortiSIEM, ArcSight |
+|Reconnaissance | whois, DIG, OSINT, SHODAN, SPIDER |
+|Brute force | Gobuster, hydra, John, networkminer,  |
+|Malware analysis | VirusTotal, Remnux, any.run |
+|IP address analysis | IP checker, arin.net|
+|Coding | vscode |
+
 
 <!--
 **Chinuaoku/Chinuaoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
