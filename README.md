@@ -2,9 +2,29 @@
 
 If you are here then you are interested in knowing about me and i'll tell you!
 
-I have a background in Veterinary Medicine (Doctor of veterinary medicine) from University of Nigeria, Nsukka. I lead a startup as the Chief Excecutive Office and double as a cybersecurity analyst, offering much needed security to our users and infrastructure. 
+I have a background in Veterinary Medicine (Doctor of veterinary medicine) from University of Nigeria, Nsukka. I lead a startup in the e-commerce space as the Chief Excecutive Office and double as a cybersecurity analyst, offering much needed security to our users and infrastructure. 
 
-You can know more about me by taking a quick look at my linkedin profile https://www.linkedin.com/in/chinuaoku-nwasogwa-dvm-cc-89872583/ 
+You can know more about me by taking a quick look at my [LinkedIn Profile](https://www.linkedin.com/in/chinuaoku-nwasogwa-dvm-cc-89872583/) 
+
+## Skills
+
+1. Oral and written communication
+2. Active and Passive reconnaisance
+3. Network traffic monitoring and analysis
+4. Python, sql, bash scripting
+5. Task automation
+6. Penetration testing/ethical hacking
+7. Active directory
+8. Identity and access management
+9. Cloud security
+10. Business analysis and development
+11. Leadership and mentoring
+12. Critical thinking
+13. Cybersecurity exam item development
+<!--
+| Attempt | #1 | #2 |
+| :------ |:---| :--|
+|son      |a    |b  |
 
 <!--
 **Chinuaoku/Chinuaoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
