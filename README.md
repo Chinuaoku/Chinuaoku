@@ -40,7 +40,7 @@ You can know more about me by taking a quick look at my [LinkedIn Profile](https
 |IP address analysis | IP checker, arin.net|
 |Coding | vscode |
 
-
+sudo tcpdump -i eth0 -v -c 5
 <!--
 **Chinuaoku/Chinuaoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
