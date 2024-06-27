@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-If you are here then you are interested in knowing about me and i'll tell you!
+If you are here then you are interested in knowing about me. So, i'll tell you!
 
-I have a background in Veterinary Medicine (Doctor of veterinary medicine) from University of Nigeria, Nsukka. I lead a startup in the e-commerce space as the Chief Excecutive Office and double as a cybersecurity analyst, offering much needed security to our users and infrastructure. 
-
-You can know more about me by taking a quick look at my [LinkedIn Profile](https://www.linkedin.com/in/chinuaoku-nwasogwa-dvm-cc-89872583/) 
+I'm a professional with a rich background in Veterinary Medicine (DVM) from the University of Nigeria, Nsukka. As a passionate tech enthusiast and CEO of an e-commerce startup, I drive business growth and innovation. Additionally, I serve as a cybersecurity analyst, ensuring the security and integrity of our online platform and user data. Take a look at my [LinkedIn Profile](https://www.linkedin.com/in/chinuaoku-nwasogwa-dvm-cc-89872583/) for more details.
 
 ## Skills
 
