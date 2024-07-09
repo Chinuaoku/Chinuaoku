@@ -38,6 +38,3 @@ I'm a professional with a rich background in Veterinary Medicine (DVM) from the 
 |IP address analysis | IP checker, arin.net|
 |Coding | vscode |
 
-~~~
-xyx
-~~~
