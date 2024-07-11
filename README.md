@@ -27,8 +27,8 @@ I'm a professional with a rich background in Veterinary Medicine (DVM) from the 
 |Training| CISCO Networking, HACKTHEBOX, TryHackMe, Letsdefend, Udacity, Google|
 |Traffic and packet analysis     |Wireshark, TCPDump    |
 |Penetration testing/hacking| Burpsuite, Metasploit, Zed Attack Proxy, SQLmap|
-|Network scanning/analysis | NMAP, Zenmap, Netcat|
-|Vulnerability scanning| NIKTO, OPENVAS|
+|Network scanning/analysis | NMAP, Zenmap, Netcat
+|Vulnerability scanning| NIKTO, OPENVAS, Nessus, DirBuster|
 |Data Modification| CYBER CHEF|
 |Social Engineering/Phishing| SET, shellphish, Gophish |
 |SIEM | Splunk, Google Chronicle, EDR, Log management, IBM Qradar, FortiSIEM, ArcSight |
