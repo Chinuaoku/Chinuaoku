@@ -24,7 +24,7 @@ I'm a professional with a background in Veterinary Medicine (DVM) from the Unive
 
 | Category | list | 
 | :------ |:---|
-|Training| CISCO Networking, HACKTHEBOX, TryHackMe, Letsdefend, Udacity, Google|
+|Training| CISCO Networking, HACKTHEBOX, TryHackMe, Letsdefend, Udacity, Google, Coursera, Amazon SkillBuilder|
 |Traffic and packet analysis     |Wireshark, TCPDump    |
 |Penetration testing/hacking| Burpsuite, Metasploit, Zed Attack Proxy, SQLmap|
 |Network scanning/analysis | NMAP, Zenmap, Netcat
