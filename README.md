@@ -36,5 +36,5 @@ I'm a professional with a background in Veterinary Medicine (DVM) from the Unive
 |Brute force | Gobuster, hydra, John, networkminer,  |
 |Malware analysis | VirusTotal, Remnux, any.run |
 |IP address analysis | IP checker, arin.net|
-|Coding | vscode |
+|Coding | vscode, Google Colab |
 
