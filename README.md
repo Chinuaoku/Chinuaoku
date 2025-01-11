@@ -38,3 +38,11 @@ I'm a professional with a background in Veterinary Medicine (DVM) from the Unive
 |IP address analysis | IP checker, arin.net|
 |Coding | vscode, Google Colab |
 
+## Certifications
+1. Google Cybersecurity Professional Certificate
+2. ISC2 Certified in Cybersecurity
+3. Cisco Ethical Hacker Certificate
+4. Udacity Enterprise Security
+5. Comptia Security - in view
+6. CISSP - in view
+
