@@ -2,7 +2,7 @@
 
 If you are here then you are interested in knowing about me. So, i'll tell you!
 
-I am a professional with a background in Veterinary Medicine (DVM) from the University of Nigeria, Nsukka. As a passionate tech enthusiast and CEO of an e-commerce startup, Afiaprime, I drive business growth and innovation. Additionally, I serve as a cybersecurity analyst ensuring the security and integrity of our online platform and user data. Connect with me and take a look at my [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-blue)](https://www.linkedin.com/in/chinuaoku-nwasogwa-dvm-cc-89872583/) for more details.
+I am a professional with a background in Veterinary Medicine (DVM) from the University of Nigeria, Nsukka. As a passionate tech enthusiast and business development executive of an e-commerce startup, Afiaprime, I drive business growth and innovation. Additionally, I serve as a cybersecurity analyst ensuring the security and integrity of our online platform and user data. Connect with me and take a look at my [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-blue)](https://www.linkedin.com/in/chinuaoku-nwasogwa-dvm-cc-89872583/) for more details.
 
 ## Skills
 
