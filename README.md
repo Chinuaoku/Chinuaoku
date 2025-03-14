@@ -13,7 +13,7 @@ I am particularly focused on scalable business growth, strategic partnerships, a
 1. Oral and written communication
 2. Active and Passive reconnaisance
 3. Network traffic monitoring and analysis
-4. Python, sql, bash scripting, html, css, javascript, next.js, typescript
+4. Python, sql, bash scripting, html, css, javascript, NodeJS, ReactJS, Typescript
 5. AWS, GCP, Supabase, Vercel, Coolify
 6. Task automation
 7. Penetration testing/ethical hacking
