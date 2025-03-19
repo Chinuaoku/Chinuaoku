@@ -11,19 +11,20 @@ I am particularly focused on scalable business growth, strategic partnerships, a
 ## Skills
 
 1. Oral and written communication
-2. Active and Passive reconnaisance
-3. Network traffic monitoring and analysis
-4. Python, sql, bash scripting, html, css, javascript, NodeJS, ReactJS, Typescript
-5. AWS, GCP, Supabase, Vercel, Coolify
-6. Task automation
-7. Penetration testing/ethical hacking
-8. Active directory
-9. Identity and access management
-10. Cloud security
-11. Business analysis and development
-12. Leadership and mentoring
-13. Critical thinking
-14. Cybersecurity exam item development.
+2. Project Management
+3. Active and Passive reconnaisance
+4. Network traffic monitoring and analysis
+5. Python, sql, bash scripting, html, css, javascript, NodeJS, ReactJS, Typescript
+6. AWS, GCP, Supabase, Vercel, Coolify
+7. Task automation
+8. Penetration testing/ethical hacking
+9. Active directory
+10. Identity and access management
+11. Cloud security
+12. Business analysis and development
+13. Leadership and mentoring
+14. Critical thinking
+15. Cybersecurity exam item development.
 
 ## Tools
 
