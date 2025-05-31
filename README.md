@@ -2,7 +2,7 @@
 
 Welcome to my Github profile. Below is a brief summary about myself.
 
-I hold a Doctor of Veterinary Medicine (DVM) from the University of Nigeria, Nsukka. I have deep passion for digital technology, cybersecurity, and business development. My expertise lies in leveraging AI-driven software solutions and secure digital infrastructure to build scalable products that drive impact.
+I hold a Doctor of Veterinary Medicine (DVM) from University of Nigeria, Nsukka. I have deep passion for digital technology, cybersecurity, and business development. My expertise lies in leveraging AI-driven software solutions and secure digital infrastructure to build scalable products that drive impact.
 
 As a technical executive at Afiaprime Lab, I co-lead the development of Afiaprime (e-commerce), Cerebrum (medical technology), and AfiaEat (food delivery)—platforms designed to bridge critical service gaps in underserved markets. My role encompasses technical strategy, product innovation, cybersecurity, and business scaling, ensuring our platforms remain efficient, secure, and investor-ready.
 
